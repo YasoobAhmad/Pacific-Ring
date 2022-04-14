@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b786a2acc1a82cb4cae2a2105c24629c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ceviche One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 309424bebdd9f8d4d96f52f3c64cd16f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
